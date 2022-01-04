@@ -5,3 +5,11 @@ The following should be in the path in the environment variables
 - Spleeter
 - mediainfo
 - ffmpeg
+
+run the following line to install dependencies after cloning repository
+<code>
+pip install -r ./requirements.txt
+</code>
+
+## Contributer 
+- UsamaAyub-EE
