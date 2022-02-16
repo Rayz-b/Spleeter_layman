@@ -15,8 +15,8 @@ run the following line to install dependencies after cloning repository `pip ins
 -----------------------------------
 
 ## Instructions (_long_)[Windows]
-- Download and Install [python](https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe)
-- open _CMD_ with admin rights by pressing _WIN+X_ and selecting _Windows Terminal(Admin)_ (during installation Check Add Python to PATH)
+- Download and Install [python](https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe) (during installation Check Add Python to PATH)
+- open _CMD_ with admin rights by pressing _WIN+X_ and selecting _Windows Terminal(Admin)_ 
 - type `pip install spleeter mediainfo ffmpeg` and press _ENTER_
 - Download and extract [_Spleeter layman_](https://github.com/Rayz-b/Spleeter_layman/archive/refs/heads/main.zip)
 - copy the video you want to remove music from to the extracted folder
